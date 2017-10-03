@@ -1,0 +1,161 @@
+# depslib dependency file v1.0
+1504509633 source:c:\visual studio projects\oop345 final project (web version)\milestone 4 (gcc compiled)\assemblyline.cpp
+	<iostream>
+	<iomanip>
+	<vector>
+	<algorithm>
+	<memory>
+	<cstdlib>
+	<ctime>
+	"AssemblyLine.h"
+	"ItemManager.h"
+	"OrderManager.h"
+	"Item.h"
+	"Processor.h"
+	"Task.h"
+
+1504154300 c:\visual studio projects\oop345 final project (web version)\milestone 4 (gcc compiled)\assemblyline.h
+	<iostream>
+	<vector>
+
+1504423918 c:\visual studio projects\oop345 final project (web version)\milestone 4 (gcc compiled)\processor.h
+	<iostream>
+	<fstream>
+	<deque>
+	<list>
+	<functional>
+	"CustomerOrder.h"
+	"Task.h"
+
+1504132719 c:\visual studio projects\oop345 final project (web version)\milestone 4 (gcc compiled)\customerorder.h
+	<iostream>
+	<string>
+
+1504423279 c:\visual studio projects\oop345 final project (web version)\milestone 4 (gcc compiled)\task.h
+	<iostream>
+	<string>
+
+1504133406 source:c:\visual studio projects\oop345 final project (web version)\milestone 4 (gcc compiled)\customeritem.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	"CustomerItem.h"
+	"Item.h"
+
+1503870221 c:\visual studio projects\oop345 final project (web version)\milestone 4 (gcc compiled)\customeritem.h
+	<iostream>
+	<string>
+
+1503861702 c:\visual studio projects\oop345 final project (web version)\milestone 4 (gcc compiled)\item.h
+	<iostream>
+	<string>
+
+1504510481 source:c:\visual studio projects\oop345 final project (web version)\milestone 4 (gcc compiled)\customerorder.cpp
+	<iostream>
+	<string>
+	<vector>
+	<thread>
+	<chrono>
+	<iomanip>
+	<memory>
+	"CustomerOrder.h"
+	"CustomerItem.h"
+	"Utilities.h"
+	"Item.h"
+
+1504054986 c:\visual studio projects\oop345 final project (web version)\milestone 4 (gcc compiled)\utilities.h
+	<string>
+	<fstream>
+
+1504131792 source:c:\visual studio projects\oop345 final project (web version)\milestone 4 (gcc compiled)\item.cpp
+	<iostream>
+	<string>
+	<vector>
+	<chrono>
+	<thread>
+	<iomanip>
+	"Item.h"
+	"Utilities.h"
+
+1504507299 source:c:\visual studio projects\oop345 final project (web version)\milestone 4 (gcc compiled)\itemmanager.cpp
+	<iostream>
+	<vector>
+	"ItemManager.h"
+	"Item.h"
+
+1503890306 c:\visual studio projects\oop345 final project (web version)\milestone 4 (gcc compiled)\itemmanager.h
+	<iostream>
+	<vector>
+
+1504509800 source:c:\visual studio projects\oop345 final project (web version)\milestone 4 (gcc compiled)\milestone_4.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<memory>
+	"Task.h"
+	"TaskManager.h"
+	"CustomerOrder.h"
+	"OrderManager.h"
+	"Item.h"
+	"ItemManager.h"
+	"Utilities.h"
+	"Processor.h"
+	"AssemblyLine.h"
+
+1503888785 c:\visual studio projects\oop345 final project (web version)\milestone 4 (gcc compiled)\taskmanager.h
+	<iostream>
+	<vector>
+
+1503964942 c:\visual studio projects\oop345 final project (web version)\milestone 4 (gcc compiled)\ordermanager.h
+	<iostream>
+	<vector>
+
+1504507299 source:c:\visual studio projects\oop345 final project (web version)\milestone 4 (gcc compiled)\ordermanager.cpp
+	<iostream>
+	<vector>
+	<memory>
+	<algorithm>
+	"OrderManager.h"
+	"ItemManager.h"
+	"Item.h"
+	"CustomerOrder.h"
+
+1504510325 source:c:\visual studio projects\oop345 final project (web version)\milestone 4 (gcc compiled)\processor.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<functional>
+	"Processor.h"
+	"CustomerItem.h"
+	"CustomerOrder.h"
+	"OrderManager.h"
+	"Task.h"
+	"Item.h"
+
+1503887738 source:c:\visual studio projects\oop345 final project (web version)\milestone 4 (gcc compiled)\task.cpp
+	<iostream>
+	<string>
+	<thread>
+	<chrono>
+	<vector>
+	<iomanip>
+	"Task.h"
+	"Utilities.h"
+
+1503985306 source:c:\visual studio projects\oop345 final project (web version)\milestone 4 (gcc compiled)\taskmanager.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	"Task.h"
+	"TaskManager.h"
+	"ItemManager.h"
+	"Item.h"
+
+1504055273 source:c:\visual studio projects\oop345 final project (web version)\milestone 4 (gcc compiled)\utilities.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<istream>
+	"Utilities.h"
+
